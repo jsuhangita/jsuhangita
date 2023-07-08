@@ -1,16 +1,24 @@
-### Hi there 👋
+<h2> Welcome to my GitHub portfolio!</h2>
 
-<!--
-**jsuhangita/jsuhangita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" width="50">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<a href="https://www.linkedin.com/in/jonathan-suhangita-681719182/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<br>
+<br>
+
+
+A bit about me 👇
+<br>
+
+- 🖥 I’m a React Native Front End Engineer.
+- 🔨 Building Hybrids mobile apps for startups and companies
+- 🔭 I’m currently working on: Fullstack development (Next JS, GraphQL, Firebase, React, Node js,VPS).
+
+I've done a ton of involving various stacks and technologies, 
+View my [resume](https://drive.google.com/file/d/1qseH_d48nRPfy70MsnBf1f8upoUY-38z/view?usp=sharing), 
+Ask me anything [email](mailto:jsuhangita@gmail.com) me. 
+<br>
+Happy Coding, my brothers! 💪🏽 <br>
+</div>
